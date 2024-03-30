@@ -1,0 +1,24 @@
+
+	java:S112#"FDefine and throw a dedicated exception instead of using a generic one.(Ò‚Òéüÿÿÿÿ8ÁƒÁÕç1J$f2cdf458-ceef-4f35-8e52-cdbd627cfd01
+	java:S112A"FDefine and throw a dedicated exception instead of using a generic one.(Ò‚Òéüÿÿÿÿ8ÁƒÁÕç1J$eee68772-4f22-4d83-b193-d20355cca4af
+	java:S112S"FDefine and throw a dedicated exception instead of using a generic one.(Ò‚Òéüÿÿÿÿ8ÂƒÁÕç1J$51ae5200-a6f0-4958-ad6c-76b573a0da2c
+	java:S112_"FDefine and throw a dedicated exception instead of using a generic one.(Ò‚Òéüÿÿÿÿ8ÂƒÁÕç1J$0f117ad3-2787-4660-9b87-1f6931665309
+˜	java:S117f"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(´³¶Èúÿÿÿÿ8ÄƒÁÕç1J$e925a80a-97bf-4cbc-a361-db0a8174317f
+¡	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(äáÄ“øÿÿÿÿ8æ‰üÕç1J$fbcaf880-2a68-4486-80a9-730a3d4ad9ab
+
+java:S2095ƒ"LUse try-with-resources or close this "BufferedReader" in a "finally" clause.(´ÓñÊ8¤„ÁÕç1J$42aab4fe-f0cd-469d-98b3-64647bd51e6e
+•
+java:S2095’"LUse try-with-resources or close this "BufferedWriter" in a "finally" clause.(îŞÀ‘ûÿÿÿÿ8¤„ÁÕç1J$17dbe908-9dff-4d63-b6a3-d175ce475b6f
+}
+java:S1118":Add a private constructor to hide the implicit public one.(†¡ğ«8©„ÁÕç1J$82831568-62d9-4bce-bd69-e922276b0c46
+r	java:S106"+Replace this use of System.out by a logger.(ñ—¸½úÿÿÿÿ8°„ÁÕç1J$40032630-a77b-457c-98e8-4bd10e78b3d1
+m	java:S106"+Replace this use of System.out by a logger.(—•Å‡8±„ÁÕç1J$371d2b0f-5922-4dcf-84a0-39309f66a88b
+ˆ
+java:S1130'"lRemove the declaration of thrown exception 'java.io.IOException', as it cannot be thrown from method's body.(­¿„p8Æ…»Üç1
+m	java:S1062"+Replace this use of System.out by a logger.(Úá¬ø8¸„ÁÕç1J$325b2e7b-b097-4ea4-8ff5-81889678c9cc
+r	java:S1069"+Replace this use of System.out by a logger.(ªÓ¼áşÿÿÿÿ8¹„ÁÕç1J$943afdd6-04f6-477c-aed0-cd74b44e1a9b
+r	java:S106="+Replace this use of System.out by a logger.(ñ—¸½úÿÿÿÿ8»„ÁÕç1J$0fa1545e-7bcf-4b5e-bc10-cfbebd97f3ea
+r	java:S106|"+Replace this use of System.out by a logger.(ˆßˆ»øÿÿÿÿ8Å„ÁÕç1J$37643bc7-4f92-4789-877b-049bcb322427
+	java:S125‡"<This block of commented-out lines of code should be removed.(ùÏÆ8È„ÁÕç1J$e3e12d1b-4451-4b25-94a5-c64c248f848e
+V
+java:S1128"9Remove this unused import 'q1.com.targetindia.exception'.(¨áÒ8Û…»Üç1

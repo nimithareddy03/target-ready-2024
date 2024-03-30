@@ -1,0 +1,21 @@
+
+	java:S1122"FDefine and throw a dedicated exception instead of using a generic one.(Ò‚Òéüÿÿÿÿ8šµ¯Üç1J$ab914fe4-26b5-4f96-adde-fb39899a77a6
+¡	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ùÃÎÛÿÿÿÿÿ8µ¯Üç1J$1a613000-9425-489c-9f34-43e4ff7bc706
+r	java:S106"+Replace this use of System.out by a logger.(Õ¶Ùüÿÿÿÿ8¾µ¯Üç1J$a66372a4-ecf4-4589-86da-8322b0d19e78
+”
+java:S3457"Q%n should be used in place of \n to produce the platform-specific line separator.(¶ÈŸ8Àµ¯Üç1J$f7a95dc3-9d82-4916-a6dc-1b8d5dc91e95
+m	java:S106"+Replace this use of System.out by a logger.(¶ÈŸ8Àµ¯Üç1J$33dce16b-d068-434b-aace-102b47ed44b5
+r	java:S106"+Replace this use of System.out by a logger.(ÚÒÎÅÿÿÿÿÿ8Àµ¯Üç1J$623fcb7c-a526-4e72-bd5f-cfab4ebaae2c
+”
+java:S3457"Q%n should be used in place of \n to produce the platform-specific line separator.(Å¿©Õ8Áµ¯Üç1J$f5b58ff5-023c-4d53-ae05-171f60b3b2be
+m	java:S106"+Replace this use of System.out by a logger.(Å¿©Õ8Áµ¯Üç1J$29d0eaaf-9721-4af4-9d15-6e6f1b47bb5b
+r	java:S106"+Replace this use of System.out by a logger.(×âıØûÿÿÿÿ8Áµ¯Üç1J$4b88d419-b90d-4da1-832a-baabd411377c
+™
+java:S3457"Q%n should be used in place of \n to produce the platform-specific line separator.(ùƒ½îıÿÿÿÿ8Âµ¯Üç1J$a6504683-afae-4800-9849-870825d21c52
+r	java:S106"+Replace this use of System.out by a logger.(ùƒ½îıÿÿÿÿ8Âµ¯Üç1J$078d7de8-d4db-4112-b8c5-8822e326e336
+r	java:S106#"+Replace this use of System.out by a logger.(øÔÊéıÿÿÿÿ8Âµ¯Üç1J$2330a0b2-0f72-4454-b8a4-4cd4bd04ff1d
+™
+java:S3457%"Q%n should be used in place of \n to produce the platform-specific line separator.(øËßÙøÿÿÿÿ8Âµ¯Üç1J$d44c66a8-2221-4a29-902c-33b893068c5f
+r	java:S106%"+Replace this use of System.out by a logger.(øËßÙøÿÿÿÿ8Âµ¯Üç1J$62b55cd9-dd37-4220-b1ae-cfd06e5a9561
+—
+java:S1128"TRemove this unnecessary import: same package classes are always implicitly imported.(ö¿•Ÿ8Ûÿ·Üç1J$ffeb4681-d172-441e-acd9-bf6aa0ba6d59

@@ -1,0 +1,12 @@
+
+¡	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(¢ÆÈ’úÿÿÿÿ8ç…üÕç1J$e1c84194-b1eb-443a-b2e4-0f460ade82b1
+r	java:S106"+Replace this use of System.out by a logger.(ÛôÆÙıÿÿÿÿ8àÊ¥Šç1J$80f3fccc-81d2-45f3-9d1f-6942f0c31d0a
+z
+java:S6126"2Replace this String concatenation with Text block.(ÛôÆÙıÿÿÿÿ8áÊ¥Šç1J$4dca6c7a-8381-4e07-96c8-abbb219a0b88
+r	java:S1060"+Replace this use of System.out by a logger.(Æµ¤üûÿÿÿÿ8åÊ¥Šç1J$c1a0dda7-e39c-40e9-b61e-d2c87ee44fef
+r	java:S1067"+Replace this use of System.out by a logger.(Â¬¢úÿÿÿÿ8æÊ¥Šç1J$c6cb9903-d1a4-4424-af1f-bf5ceb62c4c2
+r	java:S1069"+Replace this use of System.out by a logger.(ëÔ¼Ôûÿÿÿÿ8çÊ¥Šç1J$a253d702-5eef-4366-818d-12fca2d2f64d
+z
+java:S61269"2Replace this String concatenation with Text block.(ëÔ¼Ôûÿÿÿÿ8çÊ¥Šç1J$822ff8cc-feea-4048-a2d3-aaeef8c9344a
+|
+java:S1128"9Remove this unused import 'q1.com.targetindia.exception'.(¨áÒ8èŠĞïè1J$7cc9889b-5427-4150-9541-c8937e2dbfc3
