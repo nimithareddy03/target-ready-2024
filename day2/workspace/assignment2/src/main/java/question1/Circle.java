@@ -1,5 +1,5 @@
-package day2.question1;
-
+package question1;
+import java.lang.*;
 public class Circle {
     public double radius = 1.0;
     public String color = "red";
