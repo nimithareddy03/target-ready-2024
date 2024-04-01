@@ -82,14 +82,15 @@ public class Main1 {
 
     }
     void start(){
-        int choice = menu();
+        int choice;
 
-        while(choice!=0){
+        while((choice = menu())!=0){
             log.trace("user made a choice {}", choice);
             switch (choice){
                 case 1:
                     try {
-                       cfd.getAll();
+                       List<Customer> lt = cfd.getAll();
+                       print(lt);
                         //System.out.println(lt);
                         break;
                     } catch (DaoException e) {
