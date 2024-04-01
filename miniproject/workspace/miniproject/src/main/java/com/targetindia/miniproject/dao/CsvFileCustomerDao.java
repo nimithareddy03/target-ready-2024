@@ -138,7 +138,13 @@ public class CsvFileCustomerDao implements CustomerDao {
     @Override
     public List<Customer> getAll() throws DaoException {
         try {
+
+//            customerMap.values()
+//                    .stream()
+//                    .toList()
+//                    .forEach(System.out :: println);
             return customerMap.values().stream().toList();
+            //return cus;
         } catch (Exception e) {
             throw new DaoException(e);
         }

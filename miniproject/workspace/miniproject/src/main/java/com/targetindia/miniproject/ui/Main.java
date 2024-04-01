@@ -74,7 +74,7 @@ public class Main {
             }
         }
     }
-    void searchByCustomerCity() {
+    public void searchByCustomerCity() {
         var ci = KeyBoardUtil.getString("Enter the city of the customer : ");
         try{
             var customers = cm.getAll();
@@ -99,7 +99,7 @@ public class Main {
 
         }
     }
-    void searchByCustomerPhone() {
+    public void searchByCustomerPhone() {
         var ph = KeyBoardUtil.getString("Enter the phone number of the customer : ");
         try{
             var customers = cm.getAll();
@@ -124,7 +124,7 @@ public class Main {
             System.out.println(e);
         }
     }
-    void searchByCustomerEmail() {
+    public void searchByCustomerEmail() {
         var em = KeyBoardUtil.getString("Enter the email of the customer : ");
         try{
             var customers = cm.getAll();
@@ -151,7 +151,7 @@ public class Main {
         }
     }
 
-    void searchByCustomerId() {
+    public void searchByCustomerId() {
         var c = KeyBoardUtil.getInt("Enter the id: ");
 
         try {
@@ -182,7 +182,7 @@ public class Main {
         System.out.println("searching for customer..");
     }
 
-    void addNewCustomerData() {
+    public void addNewCustomerData() {
         try{
             System.out.println("Enter new customer details: ");
             // accept data from the user: name, city, email, phone
@@ -205,7 +205,7 @@ public class Main {
         }
     }
 
-    void displayCustomerList() {
+    public void displayCustomerList() {
         try {
             var customers = cm.getAll();
             System.out.println("-----------------------------------------------------------------------------------");
