@@ -148,8 +148,10 @@ public class Main1 {
                         throw new RuntimeException(e);
                     }
                 case 8:
-                    cm = getDetails();
+                    id1 = KeyBoardUtil.getInt("Enter the id of the customer to update:");
                     try {
+                        cm = getDetails();
+                        cm.setId(id1);
                         cfd.update(cm);
                         break;
                     } catch (DaoException e) {
