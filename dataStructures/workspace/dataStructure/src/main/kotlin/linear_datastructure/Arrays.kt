@@ -1,4 +1,4 @@
-
+package linear_datastructure
 fun main() {
     var array = arrayOf(10, 20, 30, 40, 50, 12, 23, 34, 45, 56)
 
