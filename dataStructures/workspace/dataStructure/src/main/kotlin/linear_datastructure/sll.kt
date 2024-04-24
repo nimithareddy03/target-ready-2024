@@ -1,6 +1,5 @@
 package linear_datastructure
 
-
 class Node(var data: Int) {
     var next: Node? = null;
 }
@@ -89,15 +88,17 @@ class SinglyLinkedList { // O(n)
         temp.next = next
     } // O(n)
 
-    fun search(value : Int) : Boolean{
+    fun search(value : Int) : Int{
         var current: Node? = head
+        var position = 0
         while (current != null) {
             if (current.data == value) {
-                return true
+                return position
             }
             current = current.next
+            position++
         }
-        return false
+        return -1
     } //O(n)
 }
 
@@ -148,12 +149,12 @@ fun main() {
 
             6 -> {
                 val value = readInt("Enter value to search: ")
-                val flag = list.search(value)
-                if(flag){
-                    println("The value is present in the singly linked list")
+                val pos = list.search(value)
+                if(pos != -1){
+                    println("The value is found at " + (pos+1) + " node")
                 }
                 else{
-                    println("The value is not present in the singly linked list")
+                    println("The value is not present in double linked list")
                 }
             }
             else -> println("Invalid choice")
